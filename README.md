@@ -65,7 +65,9 @@ Une attention particulière a également été portée à l’analyse des **esti
 ## Illustrations
 
 ### Modèle de données
-![Modèle de données](images/modele_donnees.png)
+<a href="images/modele_donnees.png">
+  <img src="images/modele_donnees.png" alt="Modèle de données" width="400">
+</a>
 
 ### Tableau de bord – Page 1
 ![Tableau de bord page 1](images/tableau_bord_page_1.png)
